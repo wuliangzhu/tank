@@ -1,0 +1,38 @@
+{ "height":13,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[20, 67, 20, 2, 1, 2, 3, 0, 0, 0, 67, 67, 20, 20, 20, 18, 19, 0, 0, 67, 67, 1, 33, 34, 20, 34, 35, 0, 67, 67, 67, 67, 18, 19, 19, 3, 67, 67, 0, 67, 0, 67, 34, 35, 35, 19, 67, 3, 0, 67, 0, 67, 33, 34, 35, 67, 19, 19, 0, 0, 0, 0, 67, 33, 34, 67, 35, 35, 0, 67, 1, 2, 67, 0, 0, 67, 0, 0, 0, 0, 17, 18, 67, 67, 67, 67, 3, 0, 0, 67, 33, 34, 35, 0, 17, 18, 19, 0, 0, 0, 0, 0, 0, 0, 33, 34, 35, 0, 0, 67, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 67, 0, 67, 67, 0, 67, 0, 0],
+         "height":13,
+         "name":"\u5757\u5c42 1",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":10,
+         "x":0,
+         "y":0
+        }],
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tiledversion":"1.1.4",
+ "tileheight":32,
+ "tilesets":[
+        {
+         "columns":16,
+         "firstgid":1,
+         "image":"..\/..\/..\/..\/..\/Downloads\/\u5305\u56fe\u7f51_433499\u6709\u673a\u98df\u7269\u751f\u6d3b\u5143\u7d20\u56fe\u6807\u7d20\u6750\/59fb23041c3ad.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"tile1",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
+        }],
+ "tilewidth":32,
+ "type":"map",
+ "version":1,
+ "width":10
+}

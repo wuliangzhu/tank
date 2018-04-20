@@ -68,6 +68,8 @@ function beginLoad(){
 
 function onLoaded()
 {
-	Laya.stage.addChild(new TestUI());
+	// Laya.stage.addChild(new TestUI());
+	var gameCanvas = new game.GameCanvas();
+	gameCanvas.init();
 }
 
